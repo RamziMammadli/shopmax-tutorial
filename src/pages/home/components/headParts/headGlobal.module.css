@@ -1,0 +1,15 @@
+.container {
+    width: 69%;
+    border-left: 4px solid red;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    margin: auto;
+    margin: 25px auto;
+}
+
+.text {
+    font-size: 30px;
+    letter-spacing: 1px;
+}
